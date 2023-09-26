@@ -1,5 +1,4 @@
-<details>
-<summary>Click , to Know me</summary>
+
 
 | KEY           |                                            VALUE            |
 |--------------:|-------------------------------------------------------------|
@@ -14,4 +13,3 @@
 | OS          :  | Linux                                                       |      
 
 
-</details>
