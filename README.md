@@ -3,8 +3,8 @@
 
 | KEY           |                                            VALUE            |
 |--------------:|-------------------------------------------------------------|
-| Language      | Javascript , TypeScript                                     |
-| FrameWork     | Nestjs , ExpressJs , fastify                                |
+| Language                  :| Javascript , TypeScript                                     |
+| FrameWork                 : | Nestjs , ExpressJs , fastify                                |
 | MicroService  | RabbitMq , gRPC                                             |
 | DataBase      | MongoDB , Mysql , sqlite , Postgres , Redis , ElasticSearch |
 | API           | Postman , Insomnia , OpenApi , GraphQL , Swagger            |
