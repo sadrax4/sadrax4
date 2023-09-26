@@ -1,7 +1,7 @@
 <details>
 <summary>Click , to Know me</summary>
 
-|| Languages ||      |
+|| Languages ||      
 ||-----------||     
 || Javascript||
 || TypeStript||
