@@ -1,10 +1,10 @@
 <details>
 <summary>Click , to Know me</summary>
 
-| Languages |      
-|-----------|     
-| Javascript|
-| TypeStript|
+| Languages |       |  FrameWork  |    
+|-----------|       |-------------|
+| Javascript|       |   nestjs    |
+| TypeStript|       |  expressjs  |
 
 
 </details>
