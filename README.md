@@ -11,4 +11,8 @@
 | RealTime    :  | socket.io , webSocket , graph-ws                            |
 | DevOps       : | Docker                                                      |
 | OS          :  | Linux                                                       |      
-| Web Server  :  | Nginx                                                       |      
+| Web Server  :  | Nginx                                                       |    
+| Cloud Service  :  | AWS , Firebase                                           |      
+| Monitoring  :  | Sentry                                                       |      
+
+
