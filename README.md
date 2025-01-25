@@ -9,10 +9,9 @@
 | API         :  | Postman , Insomnia , OpenApi , GraphQL , Swagger            |
 | Architectures: | MVC , onion , SOLID                                         |
 | RealTime    :  | socket.io , webSocket , graph-ws                            |
-| DevOps       : | Docker                                                      |
-| OS          :  | Linux                                                       |      
-| Web Server  :  | Nginx                                                       |    
 | Cloud Service  :  | AWS , Firebase                                           |      
-| Monitoring  :  | Sentry                                                       |      
+| Monitoring  :  | Sentry                                                      |      
+| DevOps & Infrastructure: | Docker, Linux, Nginx                              |
+
 
 
